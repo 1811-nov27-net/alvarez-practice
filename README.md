@@ -1,5 +1,5 @@
 # alvarez-practice
 
-## my first git edit
+## my second edit git edit
 
 Copyright 2018 Ivan Alvarez
